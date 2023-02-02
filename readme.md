@@ -20,3 +20,5 @@ In the meanwhile make sure that the perturbation added on the original image is 
 download model weights from https://drive.google.com/file/d/1zaevLM3QyZEyYCK3q7_wB9BUSj_rd4NU/view?usp=sharing
 
 
+## Disclaimer
+The software is for non-commercial, educational use only.
